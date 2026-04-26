@@ -36,15 +36,15 @@ A comparative analysis of five clustering algorithms across five preprocessing p
 
 ### Cluster recovery: ground truth vs winner-by-Silhouette vs winner-by-ARI
 
-![PCA scatter](outputs/pca_scatter_comparison.png)
+![PCA scatter](pca_scatter_comparison.png)
 
 ### Silhouette vs k for partitioning algorithms
 
-![Silhouette vs k](outputs/silhouette_vs_k.png)
+![Silhouette vs k](silhouette_vs_k.png)
 
 ### Silhouette vs Davies–Bouldin trade-off across all 55 configurations
 
-![Trade-off](outputs/tradeoff_scatter.png)
+![Trade-off](tradeoff_scatter.png)
 
 ## Key findings
 
