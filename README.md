@@ -23,7 +23,7 @@ A comparative analysis of five clustering algorithms across five preprocessing p
 
 ### Best score per (Algorithm × Preprocessing) — Silhouette and ARI
 
-![Heatmap](outputs/heatmap_metrics.png)
+![Heatmap](heatmap_metrics.png)
 
 ### Top 5 configurations by each metric
 
